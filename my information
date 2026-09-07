@@ -1,0 +1,6 @@
+variable =[name,age,gender,favourite_language,goal]
+print("name:","billy_kenno"
+"age:",26
+"gender:","male"
+"favourite_language:","kiswahili"
+"goal:","become a software engineer")
